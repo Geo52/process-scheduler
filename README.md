@@ -1,6 +1,6 @@
 # Process Scheduler Simulation
 
-This is a simulation of operating system process scheduling mechanisms, implemented in C using Pthreads for process management and synchronization. The program simulates multiple CPU scheduling algorithms including First-In-First-Out (FIFO), Round Robin (RR), and Shortest Process Next (SPN).
+The program simulates multiple CPU scheduling algorithms including First-In-First-Out (FIFO), Round Robin (RR), and Shortest Process Next (SPN).
 
 ## Components
 
